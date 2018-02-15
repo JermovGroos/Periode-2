@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b231c7e7ea54ce5409bb6fa92eb379e4
+timeCreated: 1517236183
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gunBarrel: {fileID: 4899962627494268, guid: fdfb747cf38c2e54a994eb5f04da83d5,
+      type: 2}
+  - rocket: {fileID: 1808183304934304, guid: cd1148d9064cb8c43b34f4a333815d90, type: 2}
+  - rocketClone: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
